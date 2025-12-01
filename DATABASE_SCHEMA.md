@@ -165,106 +165,6 @@
 
 ---
 
-## 🔗 表关系图
-
-```mermaid
-erDiagram
-    customers ||--o{ orders : "1:N"
-    customers ||--o{ behavior_logs : "1:N"
-    products ||--o{ orders : "1:N"
-    products ||--o{ behavior_logs : "1:N"
-    regions ||--o{ orders : "1:N"
-    
-    customers {
-        int customer_id PK
-        varchar customer_name
-        enum gender
-        int birth_year
-        date registration_date
-        varchar email
-        varchar phone
-        varchar country
-        varchar city
-        varchar zip_code
-        varchar registration_channel
-        varchar loyalty_tier
-        varchar preferred_category
-        varchar avg_order_value_segment
-        date last_login_date
-        int total_orders
-        decimal total_spent
-    }
-    
-    products {
-        int product_id PK
-        varchar product_name
-        varchar category
-        varchar subcategory
-        varchar brand
-        decimal price
-        decimal cost_price
-        int stock_quantity
-        varchar supplier
-        decimal rating
-        int review_count
-        date created_date
-        boolean is_active
-    }
-    
-    orders {
-        int order_id PK
-        int customer_id FK
-        int product_id FK
-        date order_date
-        int quantity
-        decimal unit_price
-        decimal amount
-        int region_id FK
-        varchar payment_method
-        varchar shipping_method
-        varchar order_status
-        int browsing_duration_seconds
-        int click_count
-        int add_to_cart_count
-        boolean wishlist_added
-        decimal discount_applied
-        int customer_rating
-        boolean return_requested
-    }
-    
-    behavior_logs {
-        int log_id PK
-        int customer_id FK
-        int product_id FK
-        enum behavior_type
-        datetime timestamp
-        varchar session_id
-        varchar device_type
-        varchar browser
-    }
-    
-    regions {
-        int region_id PK
-        varchar region_name
-        varchar region_manager
-    }
-    
-    time_dim {
-        int date_id PK
-        date date
-        int day
-        int month
-        varchar month_name
-        int quarter
-        int year
-        int day_of_week
-        varchar day_name
-        boolean is_weekend
-        boolean is_holiday
-    }
-```
-
----
 
 ## 📈 数据规模统计
 
@@ -276,4 +176,5 @@ erDiagram
 | behavior_logs | 100,000 | 用户行为分析 | 实时更新 |
 | regions | 6 | 地域分析 | 低频更新 |
 | time_dim | 1,096 | 时间分析 | 一次性生成 |
+
 
