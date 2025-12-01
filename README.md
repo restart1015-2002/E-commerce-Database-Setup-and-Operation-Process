@@ -20,3 +20,5 @@
 ├── regions (地区维度) - 地域分布分析
 
 └── behavior_logs (行为日志) - 用户交互数据
+
+详细表单字段名称请查阅 Introduction to Each Form's Data Fields
