@@ -1,0 +1,201 @@
+﻿product_id,product_name,category,subcategory,brand,price,cost_price,stock_quantity,supplier,rating,review_count,created_date,is_active
+1,smartphone 1,,Smartphone,BrandC,218.63,189.32,677,Supplier_7,N/A,332,2022-03-03,True
+2,Smartphone 2,,Smartphone,BrandD,0.0,,871,Supplier_2,4.7,372,2023-04-30,Y
+3,smartphone 3,ELECTRONICS,Smartphone,,374.26,169.2,297,Supplier_4,3.4,338,2021-05-08,True
+4,smartphone 4,electronics,Smartphone,,26.04,252.53,497,,,190,2021-12-23,1
+5,Smartphone Model 5,electronics,Smartphone,BrandD,-100.0,,456,Supplier_7,0,266,2023-02-21,0
+6,Smartphone Model 6,,Smartphone,BrandD,155.19,274.17,359,Supplier_18,4.5,484,2021-09-01,0
+7,7Smartphone,ELECTRONICS,Smartphone,,159.45,182.06,18,Supplier_13,五星,101,2021-02-17,1
+8,Smartphone 8,Electronics,Smartphone,BrandB,485.69,103.27,811,Supplier_18,五星,182,2022-02-21,1
+9,Laptop 9,electronics,Laptop,BrandC,251.56,183.61,398,Supplier_16,五星,93,2021-09-07,0
+10,laptop 10,Electronics,Laptop,BrandA,64.02,251.57,496,Supplier_16,五星,58,2022-06-11,True
+11,Laptop Model 11,electronics,Laptop,BrandD,35.53,194.49,748,Supplier_11,N/A,336,2023-01-07,False
+12,Laptop 12,electronics,Laptop,BrandC,69.96,78.36,230,Supplier_4,五星,402,2021-10-07,False
+13,laptop 13,,Laptop,BrandD,43.7,238.76,465,Supplier_14,五星,134,2022-10-14,N
+14,Laptop Model 14,electronics,Laptop,BrandA,367.29,159.06,474,Supplier_13,N/A,351,2021-09-11,Y
+15,Laptop Model 15,Electronics,Laptop,BrandB,276.21,118.45,106,Supplier_14,4.8,289,2021-03-25,True
+16,Laptop Model 16,ELECTRONICS,Laptop,BrandC,460.46,10.84,533,Supplier_5,,101,2022-10-19,Y
+17,17Tablet,electronics,Tablet,BrandA,0.01,170.69,455,Supplier_14,4.0,265,2021-10-14,1
+18,18Tablet,,Tablet,BrandC,142.97,115.26,405,Supplier_11,五星,354,2021-07-24,0
+19,19Tablet,ELECTRONICS,Tablet,BrandA,275.52,226.57,931,Supplier_4,4.1,125,2022-11-18,N
+20,20Tablet,electronics,Tablet,BrandD,400.54,286.19,923,Supplier_7,,34,2023-05-21,True
+21,tablet 21,electronics,Tablet,BrandE,279.93,225.05,722,Supplier_6,,217,2021-01-27,N
+22,Tablet Model 22,ELECTRONICS,Tablet,BrandC,271.46,110.58,900,Supplier_16,4.7,104,2021-01-18,Y
+23,23Tablet,electronics,Tablet,,208.82,227.16,88,Supplier_16,五星,88,2023-01-18,False
+24,tablet 24,electronics,Tablet,BrandD,118.25,150.93,33,Supplier_2,,203,2023-03-10,True
+25,headphones 25,Electronics,Headphones,,379.63,102.94,496,Supplier_6,3.4,124,2023-08-14,N
+26,Headphones Model 26,electronics,Headphones,BrandA,487.9,45.99,758,Supplier_14,0,79,2022-09-11,N
+27,Headphones Model 27,ELECTRONICS,Headphones,BrandD,398.63,163.44,304,Supplier_7,0,349,2021-06-18,0
+28,Headphones Model 28,ELECTRONICS,Headphones,BrandE,476.01,219.09,235,Supplier_13,6.0,72,2021-03-29,False
+29,29Headphones,Electronics,Headphones,BrandC,209.52,216.26,960,Supplier_15,6.0,398,2022-06-05,1
+30,30Headphones,electronics,Headphones,BrandB,162.85,41.91,416,Supplier_15,N/A,471,2022-04-25,Y
+31,Headphones 31,ELECTRONICS,Headphones,,349.39,14.51,856,Supplier_19,4.8,443,2022-11-08,True
+32,32Headphones,electronics,Headphones,,386.19,89.53,618,Supplier_19,N/A,180,2022-05-19,Y
+33,smartwatch 33,Electronics,Smartwatch,BrandB,-100.0,,429,Supplier_6,五星,484,2021-10-14,False
+34,Smartwatch Model 34,ELECTRONICS,Smartwatch,,284.4,89.47,239,Supplier_4,0,5,2023-03-06,False
+35,Smartwatch Model 35,,Smartwatch,BrandC,303.61,106.38,863,Supplier_15,,243,2022-11-15,1
+36,36Smartwatch,Electronics,Smartwatch,BrandC,126.23,74.3,282,Supplier_9,N/A,431,2022-11-01,1
+37,37Smartwatch,ELECTRONICS,Smartwatch,BrandE,403.24,218.96,46,Supplier_13,6.0,438,2021-05-25,True
+38,Smartwatch Model 38,Electronics,Smartwatch,BrandB,294.48,209.47,521,Supplier_8,五星,160,2023-06-22,Y
+39,smartwatch 39,electronics,Smartwatch,,147.6,167.66,390,Supplier_7,0,83,2021-05-26,Y
+40, Smartwatch Model 40 ,,Smartwatch,BrandD,468.19,134.35,333,Supplier_17,五星,250,2022-07-23,Y
+41,T-Shirt Model 41,clothing,T-Shirt,,175.4,12.77,921,Supplier_6,4.2,475,2021-04-16,True
+42,42T-Shirt,CLOTHING,T-Shirt,,490.43,172.04,249,Supplier_14,6.0,243,2022-03-27,N
+43,T-Shirt 43,,T-Shirt,BrandA,0.0,,902,,五星,262,2023-04-29,False
+44,T-Shirt Model 44,clothing,T-Shirt,BrandC,148.39,27.3,84,Supplier_13,,464,2021-07-19,True
+45,t-shirt 45,,T-Shirt,BrandA,145.04,271.12,679,Supplier_7,4.2,144,2021-12-25,Y
+46,46T-Shirt,CLOTHING,T-Shirt,BrandD,410.59,175.01,720,Supplier_17,,221,2023-03-10,1
+47,T-Shirt Model 47,CLOTHING,T-Shirt,BrandE,13.63,236.98,71,Supplier_7,0,84,2022-06-11,True
+48,T-Shirt Model 48,Clothing,T-Shirt,,89.86,204.84,311,Supplier_5,6.0,346,2021-11-20,0
+49,Jeans Model 49,,Jeans,BrandA,419.26,247.37,336,Supplier_15,0,461,2022-12-14,Y
+50,Jeans 50,Clothing,Jeans,BrandE,449.47,23.94,797,Supplier_7,,372,2021-09-22,False
+51,jeans 51,Clothing,Jeans,BrandB,352.32,85.17,833,Supplier_12,6.0,108,2021-08-26,0
+52,jeans 52,CLOTHING,Jeans,,161.72,47.65,987,Supplier_17,6.0,255,2022-03-11,False
+53,jeans 53,clothing,Jeans,BrandE,356.75,67.21,747,Supplier_17,N/A,364,2023-02-07,False
+54,Jeans Model 54,CLOTHING,Jeans,BrandC,401.46,270.99,853,Supplier_4,3.0,401,2023-04-13,N
+55,Jeans 55,clothing,Jeans,BrandA,35.24,154.76,885,Supplier_18,3.9,208,2022-04-12,0
+56,Jeans 56,CLOTHING,Jeans,,432.13,268.01,1000000,Supplier_7,0,361,2021-09-21,False
+57,Dress Model 57,clothing,Dress,BrandE,497.99,30.6,715,Supplier_2,6.0,139,2021-01-27,0
+58,Dress 58,clothing,Dress,BrandA,287.98,173.32,828,Supplier_4,0,448,2021-02-18,True
+59,59Dress,,Dress,BrandC,244.57,91.08,606,Supplier_10,0,161,2022-12-27,False
+60,60Dress,Clothing,Dress,BrandD,138.64,10.31,-100,Supplier_14,3.3,76,2022-07-25,0
+61,dress 61,CLOTHING,Dress,BrandA,271.99,273.87,321,Supplier_9,0,19,2021-05-29,True
+62,Dress Model 62,,Dress,BrandB,343.87,43.59,11,,五星,443,2021-02-22,False
+63,Dress Model 63,,Dress,BrandD,388.65,7.4,943,Supplier_7,6.0,489,2022-08-03,False
+64,64Dress,CLOTHING,Dress,,338.2,285.01,343,Supplier_15,五星,286,2023-05-25,True
+65,Jacket Model 65,clothing,Jacket,BrandD,136.71,13.01,568,Supplier_16,3.9,123,2023-04-05,0
+66,66Jacket,CLOTHING,Jacket,BrandB,256.87,74.38,993,Supplier_15,五星,198,2021-04-26,0
+67,Jacket Model 67,,Jacket,BrandA,265.67,110.31,938,Supplier_6,6.0,118,2021-05-02,True
+68,jacket 68,Clothing,Jacket,BrandE,225.62,76.34,969,Supplier_1,6.0,136,2021-02-22,Y
+69,Jacket 69,clothing,Jacket,BrandB,434.4,104.22,50,Supplier_19,,38,2021-07-02,1
+70,Jacket Model 70,,Jacket,BrandD,256.49,266.09,745,Supplier_13,6.0,242,2022-04-19,True
+71,jacket 71,Clothing,Jacket,,180.58,292.77,36,,3.2,42,2022-02-16,N
+72,72Jacket,Clothing,Jacket,BrandE,177.03,241.29,616,Supplier_2,,486,2022-07-15,Y
+73,Shoes Model 73,clothing,Shoes,BrandE,153.28,194.21,634,,,428,2022-01-05,N
+74,shoes 74,,Shoes,BrandB,499.03,50.88,610,Supplier_5,6.0,108,2023-05-10,N
+75,Shoes 75,clothing,Shoes,BrandA,260.49,132.67,922,,N/A,185,2022-03-08,False
+76,Shoes Model 76,clothing,Shoes,BrandE,457.23,76.48,635,Supplier_15,3.8,461,2023-07-14,1
+77,Shoes Model 77,clothing,Shoes,,310.13,133.31,902,Supplier_12,五星,334,2022-07-04,True
+78,78Shoes,Clothing,Shoes,BrandA,185.22,109.26,64,Supplier_7,五星,489,2023-05-23,1
+79,shoes 79,,Shoes,BrandE,68.51,299.79,693,Supplier_2,6.0,262,2022-12-30,Y
+80,shoes 80,CLOTHING,Shoes,,344.38,60.47,995,Supplier_4,,444,2023-06-09,Y
+81,furniture 81,Home,Furniture,BrandA,448.62,209.16,213,Supplier_15,N/A,316,2021-09-01,False
+82,Furniture 82,,Furniture,BrandA,373.21,229.57,788,Supplier_12,6.0,31,2022-05-15,1
+83,83Furniture,,Furniture,BrandE,178.58,216.03,380,Supplier_9,4.3,317,2021-10-22,False
+84,Furniture 84,,Furniture,BrandC,148.13,136.67,882,Supplier_3,6.0,82,2022-01-14,Y
+85,furniture 85,,Furniture,BrandD,65.98,185.09,729,Supplier_10,3.4,17,2023-04-24,1
+86,86Furniture,Home,Furniture,BrandC,220.5,8.17,522,Supplier_4,,60,2023-09-27,1
+87,Furniture Model 87,,Furniture,BrandC,466.47,199.72,268,Supplier_19,0,42,2023-01-10,False
+88,Furniture Model 88,Home,Furniture,,175.62,267.79,526,Supplier_16,,452,2023-08-02,0
+89,Kitchenware 89,home,Kitchenware,BrandD,170.82,148.95,993,Supplier_10,0,55,2023-01-03,False
+90,kitchenware 90,HOME,Kitchenware,BrandA,246.13,90.28,956,Supplier_6,N/A,403,2022-06-16,False
+91,Kitchenware Model 91,home,Kitchenware,BrandB,104.59,35.66,537,Supplier_9,6.0,139,2022-12-15,0
+92,Kitchenware Model 92,Home,Kitchenware,BrandA,362.27,75.46,372,Supplier_8,,54,2021-03-19,False
+93,kitchenware 93,Home,Kitchenware,BrandA,370.33,99.13,855,Supplier_15,6.0,77,2022-05-16,1
+94,Kitchenware Model 94,home,Kitchenware,BrandE,378.5,170.62,839,Supplier_9,,460,2022-06-28,False
+95,95Kitchenware,,Kitchenware,BrandA,498.97,65.86,109,Supplier_11,0,458,2023-05-05,0
+96,kitchenware 96,HOME,Kitchenware,,38.67,154.31,300,Supplier_1,五星,460,2021-05-19,N
+97,Decor 97,,Decor,BrandD,197.15,35.49,291,Supplier_19,五星,412,2023-09-08,1
+98,98Decor,home,Decor,BrandA,20.17,225.01,-10,Supplier_17,6.0,260,2022-05-29,0
+99,Decor Model 99,,Decor,,460.09,240.53,260,Supplier_8,4.6,384,2021-11-08,1
+100,decor 100,HOME,Decor,BrandC,402.33,59.9,565,Supplier_15,五星,362,2022-09-24,0
+101,101Decor,home,Decor,BrandA,103.93,197.49,601,Supplier_7,6.0,229,2022-10-11,True
+102,102Decor,,Decor,BrandC,499.04,125.06,426,Supplier_11,,220,2023-01-05,Y
+103,decor 103,home,Decor,BrandE,145.13,72.03,865,Supplier_2,3.8,397,2022-06-09,True
+104,decor 104,home,Decor,BrandB,60.73,208.4,33,Supplier_17,0,426,2023-07-01,0
+105,Lighting Model 105,HOME,Lighting,,209.97,48.12,883,Supplier_14,五星,495,2022-03-07,N
+106,Lighting 106,Home,Lighting,,202.45,162.79,761,,N/A,469,2021-10-06,True
+107,Lighting Model 107,HOME,Lighting,BrandE,229.88,114.79,242,Supplier_16,五星,203,2023-09-16,True
+108,Lighting Model 108,HOME,Lighting,,47.04,149.39,854,Supplier_6,4.6,248,2023-02-13,False
+109,109Lighting,Home,Lighting,BrandB,243.46,6.18,587,Supplier_2,N/A,146,2021-11-22,False
+110,lighting 110,home,Lighting,BrandB,340.21,90.58,117,Supplier_8,N/A,136,2023-04-01,N
+111,111Lighting,Home,Lighting,BrandA,350.99,70.6,373,Supplier_16,6.0,480,2021-01-01,True
+112,112Lighting,,Lighting,BrandA,312.06,273.12,656,Supplier_3,0,158,2021-02-09,1
+113,Bedding Model 113,,Bedding,BrandB,196.52,55.13,380,Supplier_5,五星,280,2021-12-17,N
+114,bedding 114,,Bedding,,362.02,15.57,942,Supplier_18,0,13,2021-02-25,0
+115,Bedding Model 115,home,Bedding,BrandD,238.64,164.29,793,Supplier_4,N/A,145,2022-03-17,True
+116,116Bedding,Home,Bedding,BrandE,201.95,182.0,534,Supplier_5,0,277,2022-06-24,N
+117,Bedding 117,home,Bedding,BrandE,69.5,296.91,529,Supplier_13,N/A,291,2021-05-05,Y
+118,Bedding 118,Home,Bedding,BrandC,413.99,142.46,22,Supplier_6,五星,463,2022-04-28,Y
+119,Bedding Model 119,home,Bedding,,433.39,42.31,308,Supplier_14,五星,343,2022-09-07,N
+120,Bedding 120,,Bedding,BrandD,254.28,74.82,528,,,374,2023-01-19,True
+121,fiction 121,,Fiction,BrandE,154.63,209.11,804,Supplier_9,0,182,2022-01-04,True
+122,Fiction Model 122,,Fiction,,212.63,160.4,558,Supplier_8,N/A,71,2023-06-11,0
+123,Fiction Model 123,BOOKS,Fiction,BrandA,65.24,291.44,841,Supplier_1,N/A,236,2021-07-15,True
+124,Fiction Model 124,books,Fiction,BrandE,185.58,175.84,449,Supplier_14,3.1,272,2021-11-28,0
+125,fiction 125,,Fiction,BrandD,162.4,97.98,317,Supplier_2,N/A,180,2021-01-21,0
+126,fiction 126,,Fiction,,154.94,114.6,201,Supplier_2,,422,2021-09-20,N
+127,fiction 127,BOOKS,Fiction,,441.11,249.07,799,Supplier_2,N/A,1,2021-08-03,0
+128,128Fiction,Books,Fiction,,298.63,188.69,586,Supplier_17,3.6,456,2021-02-01,0
+129,Non-Fiction 129,,Non-Fiction,BrandE,290.41,168.05,317,Supplier_17,五星,143,2022-03-12,0
+130,Non-Fiction 130,Books,Non-Fiction,BrandB,450.31,54.42,678,Supplier_12,五星,280,2022-02-26,True
+131,non-fiction 131,,Non-Fiction,BrandB,39.6,224.97,82,Supplier_5,6.0,418,2021-02-20,1
+132,Non-Fiction Model 132,Books,Non-Fiction,BrandA,432.52,26.17,980,Supplier_17,五星,170,2021-10-13,0
+133,Non-Fiction 133,BOOKS,Non-Fiction,,131.35,251.98,3,Supplier_5,五星,99,2021-04-29,True
+134,134Non-Fiction,books,Non-Fiction,BrandB,106.05,133.99,791,Supplier_5,N/A,441,2022-05-19,N
+135,non-fiction 135,books,Non-Fiction,,165.09,78.93,930,Supplier_6,N/A,247,2023-01-11,N
+136,non-fiction 136,BOOKS,Non-Fiction,BrandA,-50.0,,797,Supplier_8,6.0,27,2023-05-07,N
+137,Academic 137,BOOKS,Academic,BrandE,260.1,199.83,763,Supplier_2,0,52,2022-08-29,N
+138,Academic Model 138,Books,Academic,,466.7,257.0,460,Supplier_14,五星,371,2023-08-17,Y
+139,Academic Model 139,BOOKS,Academic,,485.98,19.37,36,Supplier_7,,58,2022-09-27,1
+140,140Academic,BOOKS,Academic,BrandA,88.19,108.19,631,Supplier_13,4.6,352,2022-04-30,Y
+141,141Academic,BOOKS,Academic,BrandD,430.93,178.82,655,Supplier_17,3.4,237,2022-11-17,N
+142,academic 142,Books,Academic,BrandC,14.84,177.01,965,Supplier_7,0,90,2021-12-05,1
+143,Academic Model 143,BOOKS,Academic,BrandB,80.14,253.55,168,Supplier_12,6.0,169,2021-12-28,N
+144,144Academic,Books,Academic,BrandA,369.49,271.4,137,Supplier_5,6.0,316,2022-07-17,0
+145,145Children,,Children,BrandE,366.02,29.98,689,Supplier_11,,47,2021-05-18,1
+146,Children Model 146,,Children,BrandE,355.44,188.32,46,Supplier_11,6.0,16,2022-10-17,0
+147, 147Children ,BOOKS,Children,,94.59,148.26,65,,0,468,2021-11-27,0
+148,Children Model 148,Books,Children,BrandE,359.87,220.6,638,Supplier_18,6.0,242,2022-04-08,False
+149,Children Model 149,books,Children,BrandB,414.53,174.85,465,Supplier_3,,12,2023-04-11,0
+150,150Children,Books,Children,,17.46,249.67,419,Supplier_12,,376,2021-10-22,1
+151,Children 151,Books,Children,BrandE,142.56,85.13,444,Supplier_3,4.0,117,2021-11-17,True
+152,children 152,BOOKS,Children,,62.22,242.12,817,Supplier_10,6.0,305,2022-07-21,0
+153,cookbook 153,Books,Cookbook,BrandE,175.49,236.51,11,Supplier_3,0,231,2022-02-15,True
+154,Cookbook 154,books,Cookbook,BrandC,55.21,30.27,712,Supplier_17,6.0,204,2023-06-17,False
+155,155Cookbook,,Cookbook,,259.07,271.13,895,Supplier_1,五星,88,2021-10-09,False
+156,Cookbook Model 156,Books,Cookbook,,37.54,180.04,513,Supplier_4,五星,79,2022-09-15,False
+157,Cookbook Model 157,books,Cookbook,BrandA,412.12,227.49,956,Supplier_17,3.5,194,2022-04-11,True
+158,Cookbook 158,BOOKS,Cookbook,,144.81,216.18,517,Supplier_17,,301,2022-09-06,False
+159,Cookbook 159,Books,Cookbook,BrandA,92.17,297.43,369,Supplier_3,6.0,331,2022-03-08,Y
+160,160Cookbook,Books,Cookbook,BrandE,223.56,209.32,195,Supplier_4,,422,2022-02-09,True
+161,Equipment Model 161,SPORTS,Equipment,,237.12,212.2,911,Supplier_9,五星,228,2023-02-24,True
+162,162Equipment,SPORTS,Equipment,BrandA,401.49,263.77,112,Supplier_11,6.0,396,2022-11-02,False
+163,equipment 163,Sports,Equipment,BrandC,265.82,17.64,537,Supplier_10,N/A,82,2022-02-23,Y
+164,equipment 164,SPORTS,Equipment,BrandC,371.73,276.45,548,Supplier_19,3.3,91,2021-08-30,Y
+165,165Equipment,SPORTS,Equipment,BrandB,430.4,230.17,199,Supplier_19,6.0,291,2023-09-03,N
+166,166Equipment,sports,Equipment,BrandE,451.59,135.41,828,Supplier_9,,491,2021-01-26,0
+167,Equipment Model 167,Sports,Equipment,,426.36,269.19,993,Supplier_4,N/A,387,2022-07-25,True
+168,equipment 168,SPORTS,Equipment,,218.06,174.5,420,Supplier_17,0,50,2023-09-14,0
+169,Equipment Model 169,Sports,Equipment,BrandB,251.41,51.74,404,Supplier_14,3.0,395,2023-06-30,N
+170,Equipment Model 170,,Equipment,BrandE,94.41,252.21,853,Supplier_17,N/A,453,2021-08-23,1
+171,Apparel 171,,Apparel,BrandA,319.22,127.27,135,Supplier_19,6.0,383,2023-06-29,Y
+172,Apparel 172,,Apparel,BrandD,44.18,270.38,572,Supplier_8,N/A,138,2023-08-01,Y
+173,Apparel 173,,Apparel,BrandE,103.28,101.66,704,Supplier_18,,461,2021-03-22,Y
+174,Apparel 174,Sports,Apparel,BrandE,339.75,152.22,850,Supplier_9,0,391,2023-07-27,0
+175,Apparel 175,,Apparel,BrandA,117.23,155.41,762,Supplier_6,4.3,385,2022-01-16,False
+176,Apparel 176,Sports,Apparel,BrandA,198.97,215.05,274,Supplier_19,N/A,15,2023-05-12,False
+177,apparel 177,sports,Apparel,,256.62,226.85,115,Supplier_2,3.4,341,2022-03-06,True
+178,178Apparel,,Apparel,,258.14,97.54,974,Supplier_7,五星,360,2021-06-18,True
+179,Apparel Model 179,Sports,Apparel,BrandD,159.37,230.91,6,Supplier_17,0,83,2023-01-05,0
+180,Apparel 180,SPORTS,Apparel,BrandC,483.25,292.08,542,Supplier_16,N/A,71,2022-05-26,True
+181,Footwear 181,Sports,Footwear,,224.61,98.8,946,Supplier_18,N/A,77,2022-03-16,N
+182,Footwear 182,,Footwear,,175.99,127.64,231,Supplier_11,6.0,125,2022-12-16,True
+183,Footwear 183,SPORTS,Footwear,BrandB,84.97,92.21,543,Supplier_3,6.0,411,2021-12-12,0
+184,Footwear 184,sports,Footwear,BrandE,90.97,202.45,327,Supplier_14,0,352,2023-05-19,1
+185,185Footwear,sports,Footwear,BrandC,128.2,144.36,278,Supplier_2,N/A,13,2022-06-25,0
+186,Footwear Model 186,,Footwear,BrandC,42.86,171.49,854,Supplier_12,,297,2023-01-08,True
+187,Footwear 187,SPORTS,Footwear,BrandA,366.62,17.49,859,Supplier_3,4.2,174,2022-03-18,0
+188,footwear 188,,Footwear,BrandB,302.63,11.59,568,Supplier_3,五星,342,2021-04-24,Y
+189,Footwear Model 189,Sports,Footwear,BrandE,252.73,43.71,232,Supplier_4,N/A,280,2023-03-09,0
+190,190Footwear,,Footwear,BrandA,234.62,39.93,282,Supplier_15,3.6,439,2021-10-18,Y
+191,191Accessories,SPORTS,Accessories,BrandB,390.5,210.27,775,Supplier_15,6.0,25,2022-11-23,True
+192,accessories 192,,Accessories,,75.36,59.79,644,Supplier_15,0,474,2023-08-03,1
+193,accessories 193,SPORTS,Accessories,BrandC,149.5,250.19,59,Supplier_9,五星,393,2023-05-19,True
+194,194Accessories,,Accessories,BrandB,162.06,158.66,480,Supplier_4,0,452,2021-03-28,Y
+195,Accessories 195,,Accessories,BrandD,303.31,56.28,196,Supplier_18,五星,395,2023-07-20,Y
+196,Accessories 196,sports,Accessories,BrandB,329.48,68.87,495,,五星,233,2022-02-21,Y
+197,Accessories Model 197,sports,Accessories,BrandA,447.51,21.49,364,Supplier_19,N/A,429,2022-10-13,1
+198,Accessories 198,SPORTS,Accessories,BrandC,137.34,113.72,906,Supplier_18,5.0,189,2021-08-22,True
+199,Accessories 199,sports,Accessories,BrandB,456.73,204.05,357,Supplier_15,五星,236,2021-02-02,Y
+200,accessories 200,Sports,Accessories,BrandD,267.52,243.1,378,Supplier_11,0,300,2023-03-10,Y
